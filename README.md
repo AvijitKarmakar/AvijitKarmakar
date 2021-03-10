@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/AvijitKarmakar)
 
-<tr>
-  <td width=50%>
+<p>
+  <p>
     <b>📊 Github Stats</b>
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=AvijitKarmakar&count_private=true&show_icons=true&include_all_commits=true" alt="Avijit Karmakar | Github Stats" />
-  </td>
-  <td>
+  </p>
+  <p>
     <b>📊 StackOverflow Stats</b>
+    <br />
     <a href="https://stackoverflow.com/users/5294091/avijit-karmakar"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5294091" height="200"></a>
-  </td>
+  </p>
 </p>
