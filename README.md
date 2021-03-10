@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Avijit Karmakar
 
-![Profile views]
+![Profile views](https://gpvc.arturio.dev/AvijitKarmakar)
 
-<a href="https://stackoverflow.com/users/story/5294091"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5294091&theme=dark" height="250"></a>
+<a href="https://stackoverflow.com/users/story/5294091"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5294091" height="250"></a>
