@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/AvijitKarmakar)
 
 <tr>
-  <td>
+  <td width=50%>
     <b>📊 Github Stats</b>
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=AvijitKarmakar&count_private=true&show_icons=true&include_all_commits=true" alt="Avijit Karmakar | Github Stats" />
