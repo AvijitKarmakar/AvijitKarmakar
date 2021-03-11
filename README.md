@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/AvijitKarmakar)
 
-<p>
+<p style="display:inline">
   <p style="display:inline">
     <b>📊 Github Stats</b>
     <br />
