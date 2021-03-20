@@ -40,22 +40,3 @@ Here are some ideas to get you started:
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
-
-## Results {.tabset}
-
-### Plots
-
-We show a scatter plot in this section.
-
-```{r, fig.dim=c(5, 3)}
-par(mar = c(4, 4, .5, .1))
-plot(mpg ~ hp, data = mtcars, pch = 19)
-```
-
-### Tables
-
-We show the data in this tab.
-
-```{r}
-head(mtcars)
-```
